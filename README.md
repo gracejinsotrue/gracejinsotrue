@@ -1,5 +1,5 @@
 ## Hiiiii shaaaawty 👋\
-![Alt text](https://www.youtube.com/watch?v=h9yya-j_kjE)
+!([https://www.youtube.com/watch?v=h9yya-j_kjE](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png))
 - everyday i wake up
 - image link here
 - 📫 How to reach me: gsj33@cornell.edu\
