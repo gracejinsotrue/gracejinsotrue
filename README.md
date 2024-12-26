@@ -1,6 +1,7 @@
 ## Hiiiii shaaaawty 👋\
-- everyday i wake up\
-- image link here\
+![Alt text](https://www.youtube.com/watch?v=h9yya-j_kjE)
+- everyday i wake up
+- image link here
 - 📫 How to reach me: gsj33@cornell.edu\
  🌱 Tech stack: Python, Java, C#, 3js
 
