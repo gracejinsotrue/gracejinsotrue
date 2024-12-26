@@ -1,7 +1,7 @@
-## Hiiiii shaaaawty 👋
-everyday i wake up
-image link here
- 📫 How to reach me: gsj33@cornell.edu
+## Hiiiii shaaaawty 👋\
+- everyday i wake up\
+- image link here\
+- 📫 How to reach me: gsj33@cornell.edu\
  🌱 Tech stack: Python, Java, C#, 3js
 
 <!--
