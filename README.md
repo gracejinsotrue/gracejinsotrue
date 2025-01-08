@@ -4,6 +4,7 @@
 - everyday i wake up
 - 📫 How to reach me: gsj33@cornell.edu
 - 🌱 Tech stack: Python, Java, C#, Three.js, React
+- Socials (insta): https://www.instagram.com/yeygrassssss/
 
 <!--
 **gracejinsotrue/gracejinsotrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
