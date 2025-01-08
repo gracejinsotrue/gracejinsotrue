@@ -2,9 +2,8 @@
 ![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
 ![handsomeprogramminglanguage](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/handsomeproramminglanguageslmao.png)
 - everyday i wake up
-- image link here
 - 📫 How to reach me: gsj33@cornell.edu
-- 🌱 Tech stack: Python, Java, C#, 3js
+- 🌱 Tech stack: Python, Java, C#, Three.js, React
 
 <!--
 **gracejinsotrue/gracejinsotrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
