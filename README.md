@@ -1,6 +1,6 @@
 ## Hiiiii shaaaawty 👋
 ![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
-![handsomeprogramminglanguage](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/handsomeproramminglanguageslmao.png)
+
 - everyday i wake up
 - 📫 How to reach me: gsj33@cornell.edu
 - 🌱 Tech stack: Python, Java, C#, Three.js, React
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gsj33@cornell.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![handsomeprogramminglanguage](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/handsomeproramminglanguageslmao.png)
 -->
