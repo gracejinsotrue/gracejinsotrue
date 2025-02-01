@@ -1,4 +1,4 @@
-## Hiiiii shaaaawty 👋
+## Hiiiii👋
 ![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
 
 - everyday i wake up
