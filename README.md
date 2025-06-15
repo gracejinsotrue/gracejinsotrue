@@ -3,11 +3,13 @@
 💻 Motivated software engineer with a strong track record of getting things done!  
 🎨 Also into digital art — feel free to reach out for commissions!
 
----
+
 
 ![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracejinsotrue&show_icons=true&theme=tokyonight&hide_rank=True)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
+
+![Grace's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gracejinsotrue&theme=tokyo-night)
 
 ## 🎨 Hobbies & Interests
 - Digital art (reach out for commissions!)
