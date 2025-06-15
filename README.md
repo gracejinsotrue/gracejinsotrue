@@ -9,7 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
 
-![Grace's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gracejinsotrue&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com?user=gracejinsotrue&theme=tokyonight)
+
 
 ## 🎨 Hobbies & Interests
 - Digital art (reach out for commissions!)
