@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Grace Jin!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
+
+![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
 
 
 🎓 I'm a Computer Science student at **Cornell University** with a passion for software engineering to build beautiful, user-focused systems.  
@@ -40,6 +41,6 @@
 
 Thanks for stopping by! 😊
 
-![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
 ![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracejinsotrue&show_icons=true&theme=tokyonight&hide_rank=True)
 
