@@ -22,13 +22,4 @@
 - Computer graphics and creative coding  
 ---
 
-## 📬 Let's Connect
-
-- 📫 Email: [gsj33@cornell.edu](mailto:gsj33@cornell.edu)  
-- 🌐 Personal Website: [gracejin.dev](https://gracejin.dev)  
-- 💼 LinkedIn: [Grace Jin](https://www.linkedin.com/in/grace-jin-9654a826b/)  
-- 📸 Instagram: [@yeygrassssss](https://www.instagram.com/yeygrassssss/)  
-
----
-
 Thanks for stopping by! 😊
