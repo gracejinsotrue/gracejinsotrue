@@ -1,23 +1,39 @@
-## Hiiiii👋
+# 👋 Hi, I'm Grace Jin!
 ![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
 
-- everyday i wake up
-- 📫 How to reach me: gsj33@cornell.edu
-- 🌱 Tech stack: Python, Java, C#, Three.js, React
-- Socials (insta): https://www.instagram.com/yeygrassssss/
+🎓 I'm a Computer Science student at **Cornell University** with a passion for building beautiful, user-focused systems.  
+💻 Motivated software engineer with a strong track record of getting things done!  
+🎨 Also into digital art — feel free to reach out for commissions!
 
-<!--
-**gracejinsotrue/gracejinsotrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: gsj33@cornell.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![handsomeprogramminglanguage](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/handsomeproramminglanguageslmao.png)
--->
+**Languages:**  
+🌱 Python · Java · C · C# · JavaScript · TypeScript  
+
+**Web Development:**  
+🌐 React · Next.js · HTML · CSS · Three.js  
+
+**Backend:**  
+🧠 Flask  
+
+---
+
+## 🎨 Hobbies & Interests
+- Digital art (reach out for commissions!)
+- Full-stack development  
+- Computer graphics and creative coding  
+
+---
+
+## 📬 Let's Connect
+
+- 📫 Email: [gsj33@cornell.edu](mailto:gsj33@cornell.edu)  
+- 🌐 Personal Website: [gracejin.dev](https://gracejin.dev)  
+- 💼 LinkedIn: [Grace Jin](https://www.linkedin.com/in/grace-jin-9654a826b/)  
+- 📸 Instagram: [@yeygrassssss](https://www.instagram.com/yeygrassssss/)  
+
+---
+
+Thanks for stopping by! 😊
