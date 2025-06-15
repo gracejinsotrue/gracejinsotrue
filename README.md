@@ -4,9 +4,6 @@
 🎨 Also into digital art — feel free to reach out for commissions!
 
 
-
-![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracejinsotrue&show_icons=true&theme=tokyonight&hide_rank=True)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gracejinsotrue&theme=tokyonight)
