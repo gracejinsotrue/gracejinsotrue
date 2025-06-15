@@ -5,16 +5,7 @@
 
 ---
 
-## 🛠️ Skills
-
-**Languages:**  
-🌱 Python · Java · C · C# · JavaScript · TypeScript · Rust
-
-**Web Development:**  
-🌐 React · Next.js · HTML · CSS · Three.js  
-
-**Backend:**  
-🧠 Flask  
+![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracejinsotrue&show_icons=true&theme=tokyonight&hide_rank=True)
 
 ---
 
