@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Grace Jin!
 ![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
 
+![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracejinsotrue&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
+
+
 🎓 I'm a Computer Science student at **Cornell University** with a passion for software engineering to build beautiful, user-focused systems.  
 💻 Motivated software engineer with a strong track record of getting things done!  
 🎨 Also into digital art — feel free to reach out for commissions!
