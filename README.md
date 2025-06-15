@@ -9,8 +9,10 @@
 
 **Languages:**  
 🌱 Python · Java · C · C# · JavaScript · TypeScript · Rust
+
 **Web Development:**  
 🌐 React · Next.js · HTML · CSS · Three.js  
+
 **Backend:**  
 🧠 Flask  
 
