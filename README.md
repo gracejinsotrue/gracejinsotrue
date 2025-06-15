@@ -20,7 +20,6 @@
 - Digital art (reach out for commissions!)
 - Full-stack development  
 - Computer graphics and creative coding  
-
 ---
 
 ## 📬 Let's Connect
@@ -33,4 +32,4 @@
 ---
 
 Thanks for stopping by! 😊
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
