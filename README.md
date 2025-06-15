@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Grace Jin!
-![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
-![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracejinsotrue&show_icons=true&theme=tokyonight&hide_rank=True)
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
 
@@ -44,3 +39,7 @@
 ---
 
 Thanks for stopping by! 😊
+
+![soreal](https://github.com/gracejinsotrue/gracejinsotrue/blob/main/postthisdog.png)
+![Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracejinsotrue&show_icons=true&theme=tokyonight&hide_rank=True)
+
