@@ -5,7 +5,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
-![snake gif](https://github.com/gracejinsotrue/gracejinsotrue/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gracejinsotrue&theme=tokyonight)
+
 
 
 
