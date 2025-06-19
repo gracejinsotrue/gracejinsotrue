@@ -5,7 +5,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
-![Streak](https://img.shields.io/badge/GitHub%20Streak-🔥%208-day-informational?style=flat-square&logo=github&color=blueviolet)
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracejinsotrue&show_icons=true&theme=tokyonight)
+
 
 
 
