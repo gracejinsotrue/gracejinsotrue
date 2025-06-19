@@ -5,8 +5,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
-[![Grace's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gracejinsotrue&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Streak](https://img.shields.io/badge/GitHub%20Streak-🔥%208-day-informational?style=flat-square&logo=github&color=blueviolet)
 
 
 
