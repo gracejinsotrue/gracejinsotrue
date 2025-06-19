@@ -5,7 +5,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats-replit.apurba-dev.repl.co?user=gracejinsotrue&theme=tokyonight)
+![GitHub Streak](https://github-streak-stats.onrender.com?user=gracejinsotrue&theme=tokyonight)
 
 
 
