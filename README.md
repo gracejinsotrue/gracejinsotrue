@@ -12,7 +12,7 @@ I am a motivated software engineer with a strong track record of getting things 
 
 
 
-##My Hobbies & Interests
+## My Hobbies & Interests
 - Digital art (reach out for commissions!)
 - Full-stack development  
 - Computer graphics and creative coding  
