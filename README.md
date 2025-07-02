@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Grace Jin!
-this bio is so cringe i need to change it 
+I like making software and other silly things :)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight)
-
-
 
 
 
