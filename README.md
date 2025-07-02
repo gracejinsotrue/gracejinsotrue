@@ -14,5 +14,5 @@ I like making software and other silly things :)
 - Computer graphics and creative coding  
 ---
 
-I consider _she's got everything that i don't have_ as falling into the same comparative illusion as _more people have been to berlin than i have_
+I consider _she's got everything that i don't have_ as an Escher sentence comparabe to _more people have been to berlin than i have_
 Thanks for stopping by! 😊
