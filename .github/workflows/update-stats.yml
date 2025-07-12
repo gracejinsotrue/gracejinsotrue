@@ -50,28 +50,30 @@ jobs:
           echo "<!-- LANGUAGE_STATS_END -->" >> README.md
         fi
         
+        # Create temporary file with new content
+        cat > temp_stats.md << 'EOF'
+        <!-- LANGUAGE_STATS_START -->
+        
+        ![Language Statistics](./language_stats.svg)
+        
+        *Updated automatically every Sunday*
+        
+        <!-- LANGUAGE_STATS_END -->
+        EOF
+        
         # Update the language stats section in README.md
         if grep -q "<!-- LANGUAGE_STATS_START -->" README.md; then
           # Replace existing section
-          sed -i '/<!-- LANGUAGE_STATS_START -->/,/<!-- LANGUAGE_STATS_END -->/c\
-<!-- LANGUAGE_STATS_START -->\
-\
-![Language Statistics](./language_stats.svg)\
-\
-*Updated automatically every Sunday*\
-\
-<!-- LANGUAGE_STATS_END -->' README.md
+          sed -i '/<!-- LANGUAGE_STATS_START -->/,/<!-- LANGUAGE_STATS_END -->/d' README.md
+          cat temp_stats.md >> README.md
         else
           # Add new section at the end
           echo "" >> README.md
-          echo "<!-- LANGUAGE_STATS_START -->" >> README.md
-          echo "" >> README.md
-          echo "![Language Statistics](./language_stats.svg)" >> README.md
-          echo "" >> README.md
-          echo "*Updated automatically every Sunday*" >> README.md
-          echo "" >> README.md
-          echo "<!-- LANGUAGE_STATS_END -->" >> README.md
+          cat temp_stats.md >> README.md
         fi
+        
+        # Clean up
+        rm temp_stats.md
     
     - name: 📈 Commit and push changes
       run: |
