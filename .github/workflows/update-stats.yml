@@ -1,0 +1,112 @@
+name: Update Language Statistics
+
+on:
+  schedule:
+    # Run every Sunday at midnight UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main, master ]
+    paths:
+      - '.github/workflows/update-stats.yml'
+      - 'generate_stats.py'
+
+jobs:
+  update-language-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+    
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 📦 Install dependencies
+      run: |
+        pip install requests
+    
+    - name: 📊 Generate language statistics
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_USERNAME: ${{ github.repository_owner }}
+      run: |
+        python generate_stats.py
+    
+    - name: 📝 Update README with stats
+      run: |
+        # Check if README.md exists
+        if [ ! -f README.md ]; then
+          echo "# ${{ github.repository_owner }}" > README.md
+          echo "" >> README.md
+          echo "<!-- LANGUAGE_STATS_START -->" >> README.md
+          echo "<!-- LANGUAGE_STATS_END -->" >> README.md
+        fi
+        
+        # Update the language stats section in README.md
+        if grep -q "<!-- LANGUAGE_STATS_START -->" README.md; then
+          # Replace existing section
+          sed -i '/<!-- LANGUAGE_STATS_START -->/,/<!-- LANGUAGE_STATS_END -->/c\
+<!-- LANGUAGE_STATS_START -->\
+\
+![Language Statistics](./language_stats.svg)\
+\
+*Updated automatically every Sunday*\
+\
+<!-- LANGUAGE_STATS_END -->' README.md
+        else
+          # Add new section at the end
+          echo "" >> README.md
+          echo "<!-- LANGUAGE_STATS_START -->" >> README.md
+          echo "" >> README.md
+          echo "![Language Statistics](./language_stats.svg)" >> README.md
+          echo "" >> README.md
+          echo "*Updated automatically every Sunday*" >> README.md
+          echo "" >> README.md
+          echo "<!-- LANGUAGE_STATS_END -->" >> README.md
+        fi
+    
+    - name: 📈 Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add language_stats.svg language_stats.json language_stats.md README.md
+        
+        # Only commit if there are changes
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "📊 Update language statistics"
+          git push
+        fi
+    
+    - name: 📋 Create job summary
+      run: |
+        echo "## 📊 Language Statistics Updated" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### Files Updated:" >> $GITHUB_STEP_SUMMARY
+        echo "- 📄 language_stats.svg" >> $GITHUB_STEP_SUMMARY
+        echo "- 📊 language_stats.json" >> $GITHUB_STEP_SUMMARY
+        echo "- 📝 language_stats.md" >> $GITHUB_STEP_SUMMARY
+        echo "- 📖 README.md" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f language_stats.json ]; then
+          echo "### Top Languages:" >> $GITHUB_STEP_SUMMARY
+          python3 -c "
+import json
+with open('language_stats.json') as f:
+    data = json.load(f)
+    percentages = data['percentages']
+    sorted_langs = sorted(percentages.items(), key=lambda x: x[1], reverse=True)
+    for i, (lang, pct) in enumerate(sorted_langs[:5], 1):
+        print(f'{i}. **{lang}**: {pct:.1f}%')
+" >> $GITHUB_STEP_SUMMARY
+        fi
