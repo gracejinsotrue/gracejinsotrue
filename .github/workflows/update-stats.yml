@@ -36,9 +36,30 @@ jobs:
     - name: 📊 Generate language statistics
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_USERNAME: ${{ github.repository_owner }}
+        GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
       run: |
-        python generate_stats.py
+        echo "🔍 Starting language statistics generation..."
+        echo "Repository owner: $GITHUB_REPOSITORY_OWNER"
+        echo "Token length: ${#GITHUB_TOKEN}"
+        
+        python generate_stats.py || {
+          echo "❌ Python script failed"
+          echo "Checking if generate_stats.py exists:"
+          ls -la generate_stats.py
+          echo "Python version:"
+          python --version
+          exit 1
+        }
+        
+        # Check if files were created
+        if [ ! -f language_stats.svg ]; then
+          echo "❌ Error: language_stats.svg was not created"
+          echo "Current directory contents:"
+          ls -la
+          exit 1
+        fi
+        
+        echo "✅ Language statistics generated successfully"
     
     - name: 📝 Update README with stats
       run: |
@@ -79,14 +100,36 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add language_stats.svg language_stats.json language_stats.md README.md
+        
+        # Check what files exist before adding
+        echo "📁 Files in directory:"
+        ls -la
+        
+        # Add files that exist
+        git add README.md
+        
+        if [ -f language_stats.svg ]; then
+          git add language_stats.svg
+          echo "✅ Added language_stats.svg"
+        fi
+        
+        if [ -f language_stats.json ]; then
+          git add language_stats.json
+          echo "✅ Added language_stats.json"
+        fi
+        
+        if [ -f language_stats.md ]; then
+          git add language_stats.md
+          echo "✅ Added language_stats.md"
+        fi
         
         # Only commit if there are changes
         if git diff --staged --quiet; then
-          echo "No changes to commit"
+          echo "ℹ️ No changes to commit"
         else
           git commit -m "📊 Update language statistics"
           git push
+          echo "✅ Changes committed and pushed"
         fi
     
     - name: 📋 Create job summary
