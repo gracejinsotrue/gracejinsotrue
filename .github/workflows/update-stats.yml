@@ -99,16 +99,4 @@ jobs:
         echo "- 📝 language_stats.md" >> $GITHUB_STEP_SUMMARY
         echo "- 📖 README.md" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        
-        if [ -f language_stats.json ]; then
-          echo "### Top Languages:" >> $GITHUB_STEP_SUMMARY
-          python3 -c "
-import json
-with open('language_stats.json') as f:
-    data = json.load(f)
-    percentages = data['percentages']
-    sorted_langs = sorted(percentages.items(), key=lambda x: x[1], reverse=True)
-    for i, (lang, pct) in enumerate(sorted_langs[:5], 1):
-        print(f'{i}. **{lang}**: {pct:.1f}%')
-" >> $GITHUB_STEP_SUMMARY
-        fi
+        echo "✅ Language statistics have been successfully updated!" >> $GITHUB_STEP_SUMMARY
