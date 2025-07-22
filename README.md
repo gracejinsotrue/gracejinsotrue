@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Grace Jin!
 I like making software and other silly things :)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight&langs_count=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&theme=tokyonight&langs_count=10)
 
 
 
