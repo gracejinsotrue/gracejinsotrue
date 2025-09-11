@@ -5,6 +5,7 @@ I am currently a student at Cornell University, studying Computer Science with a
 Personal Website: [https://www.gracejin.dev](https://www.gracejin.dev/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=gracejinsotrue&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
