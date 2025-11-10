@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Grace Jin!
 I like making software and other silly things :)
-I am currently a student at Cornell University, studying Computer Science with a minor in Artificial Intelligence. 
+I am currently a student at Cornell University, studying Computer Science with a minor in Artificial Intelligence. College of Engineering btw
 
 Personal Website: [https://www.gracejin.dev](https://www.gracejin.dev/)
 
