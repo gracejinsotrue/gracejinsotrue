@@ -4,8 +4,9 @@ I am currently a student at Cornell University, studying Computer Science with a
 
 ## My Hobbies & Interests
 - Digital art (reach out for commissions!)
+- Computer graphics and creative coding
+- Systems/Infrastructure software engineering 
 - Full-stack development  
-- Computer graphics and creative coding  
 ---
 
 1) My favorite one-liner is ```scroll-behavior: smooth```; oh my god it's great lol
