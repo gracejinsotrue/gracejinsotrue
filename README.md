@@ -9,9 +9,7 @@ I am currently a student at Cornell University, studying Computer Science with a
 - Full-stack development  
 ---
 
-1) My favorite one-liner is ```scroll-behavior: smooth```; oh my god it's great lol
-   
-2) I consider _she's got everything that i don't have_ an Escher sentence comparabe to _more people have been to berlin than i have_
+1) I consider _she's got everything that i don't have_ an Escher sentence comparabe to _more people have been to berlin than i have_
 
 Thanks for stopping by! 😊
 
@@ -19,8 +17,6 @@ Thanks for stopping by! 😊
 Personal Website: [https://www.gracejin.dev](https://www.gracejin.dev/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gracejinsotrue&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracejinsotrue&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
 
 
 
