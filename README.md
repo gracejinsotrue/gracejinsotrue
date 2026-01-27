@@ -2,7 +2,7 @@
 I like making software and other silly things :)
 I am currently an undergraduate student at Cornell University, studying Computer Science with a minor in Artificial Intelligence. College of Engineering btw
 
-I am an incoming software engineer intern at [LinkedIn](https://engineering.linkedin.com/) and previously worked as a software engineering intern at [Cepton](https://www.linkedin.com/company/cepton/)
+I am an incoming software engineer intern at [LinkedIn](https://engineering.linkedin.com/) and previously worked as a software engineering intern at [Cepton](https://www.linkedin.com/company/cepton/). Please hire me I want to make more cool software.
 
 My resume is somewhere in my github so true
 
