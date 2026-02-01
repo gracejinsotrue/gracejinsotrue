@@ -4,7 +4,10 @@ I am currently an undergraduate student at Cornell University, studying Computer
 
 I am an incoming software engineer intern at [LinkedIn](https://engineering.linkedin.com/) and previously worked as a software engineering intern at [Cepton](https://www.linkedin.com/company/cepton/). Please hire me I want to make more cool software.
 
+I am currently working on 1) a compiler written in C++23, 2) a [PBR] (https://en.wikipedia.org/wiki/Physically_based_rendering) path tracer 3) drawing stuff :) 
+
 My resume is somewhere in my github so true
+
 
 ## My Hobbies & Interests
 - Digital art (reach out for commissions!)
