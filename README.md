@@ -12,8 +12,7 @@ My resume is somewhere in my github so true
 ## My Hobbies & Interests
 - Digital art (reach out for commissions!)
 - Computer graphics and creative coding
-- Systems/Infrastructure software engineering 
-- Full-stack development  
+- Systems software engineering 
 ---
 
 1) I consider _she's got everything that i don't have_ an Escher sentence comparabe to _more people have been to berlin than i have_
