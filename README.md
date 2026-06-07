@@ -22,10 +22,6 @@ Thanks for stopping by! 😊
 
 Personal Website: [https://www.gracejin.dev](https://www.gracejin.dev/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gracejinsotrue&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
-
 
 
 
