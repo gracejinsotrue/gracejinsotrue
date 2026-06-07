@@ -2,7 +2,7 @@
 I like making software and other silly things :)
 I am currently an undergraduate student at Cornell University, studying Computer Science with a minor in Artificial Intelligence. College of Engineering btw
 
-I am an incoming software engineer intern at [LinkedIn](https://engineering.linkedin.com/) and previously worked as a software engineering intern at [Cepton](https://www.linkedin.com/company/cepton/). Please hire me I want to make more cool software.
+I am a current software engineer intern at [LinkedIn](https://engineering.linkedin.com/) and previously worked as a software engineering intern at [Cepton](https://www.linkedin.com/company/cepton/). Please hire me I want to make more cool software.
 
 I am currently working on 1) a compiler written in C++23, 2) a hardware-accelerated [PBR](https://en.wikipedia.org/wiki/Physically_based_rendering) path tracer with DirectX backend 3) drawing stuff :) 
 
@@ -11,7 +11,7 @@ My resume is somewhere in my github so true
 
 ## My Hobbies & Interests
 - Digital art (reach out for commissions!)
-- Computer graphics and creative coding
+- Computer graphics
 - Systems software engineering 
 ---
 
